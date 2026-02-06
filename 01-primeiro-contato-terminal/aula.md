@@ -1,4 +1,4 @@
-# Encontro 1 — Fundamentos + Primeiro Código em Python
+# Aula 1 — Fundamentos + Primeiro Código em Python
 
 > **Objetivo da aula:**
 > Configurar o ambiente de desenvolvimento para programar em Python.

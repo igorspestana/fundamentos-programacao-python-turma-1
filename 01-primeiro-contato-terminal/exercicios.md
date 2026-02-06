@@ -1,4 +1,4 @@
-# Exercícios - Encontro 1
+# Exercícios - Aula 1
 
 ## Objetivo
 Fixar o conteúdo aprendido sobre variáveis, tipos de dados e a função `print()`.
