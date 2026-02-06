@@ -142,22 +142,22 @@ Bilhões desses pequenos interruptores, chamados transistores, trabalham juntos 
 
 **Analogia para ilustrar:**
 
->Imagine uma parede com bilhões de interruptores:
+> Imagine uma parede com bilhões de interruptores:
 >
->Ligado = 1
->Desligado = 0
+> Ligado = 1
+> Desligado = 0
 >
->Um único interruptor não diz muita coisa, mas vários interruptores ligados e desligados em sequência conseguem representar letras, números e até imagens. O computador faz isso em altíssima velocidade.
+> Um único interruptor não diz muita coisa, mas vários interruptores ligados e desligados em sequência conseguem representar letras, números e até imagens. O computador faz isso em altíssima velocidade.
 
 ou 
 
->O computador funciona parecido com o código Morse:
+> O computador funciona parecido com o código Morse:
 >
->Um sinal curto ou ausência de sinal = 0
->Um sinal longo ou presença de sinal = 1
+> Um sinal curto ou ausência de sinal = 0
+> Um sinal longo ou presença de sinal = 1
 >
->Sozinhos, os sinais não dizem nada, mas combinações deles formam mensagens completas.
->O computador só troca “pontos e traços” por energia ligada ou desligada.
+> Sozinhos, os sinais não dizem nada, mas combinações deles formam mensagens completas.
+> O computador só troca “pontos e traços” por energia ligada ou desligada.
 
 
 ### O que é sintaxe?
@@ -247,23 +247,17 @@ Ser fácil de ler e escrever não torna uma linguagem pior, apenas significa que
 
 ### O que dá pra fazer com Python?
 
-* **Automatizar tarefas**
-Renomear arquivos, gerar relatórios, ler planilhas, integrar sistemas.
+* **Automatizar tarefas**: Renomear arquivos, gerar relatórios, ler planilhas, integrar sistemas.
 
-* **Criar sites e APIs**
-Backends de aplicações web, sistemas internos, serviços na nuvem.
+* **Criar sites e APIs**: Backends de aplicações web, sistemas internos, serviços na nuvem.
 
-* **Analisar dados**
-Trabalhar com planilhas grandes, gráficos, estatísticas e relatórios.
+* **Analisar dados**: Trabalhar com planilhas grandes, gráficos, estatísticas e relatórios.
 
-* **Inteligência Artificial e Machine Learning**
-Treinar modelos, criar chatbots, sistemas de recomendação.
+* **Inteligência Artificial e Machine Learning**: Treinar modelos, criar chatbots, sistemas de recomendação.
 
-* **Scripts e ferramentas internas**
-Programas pequenos que ajudam equipes a ganhar tempo.
+* **Scripts e ferramentas internas**: Programas pequenos que ajudam equipes a ganhar tempo.
 
-* **Jogos, desktop e testes**
-Protótipos, ferramentas visuais e testes automatizados.
+* **Jogos, desktop e testes**: Protótipos, ferramentas visuais e testes automatizados.
 
 ---
 
