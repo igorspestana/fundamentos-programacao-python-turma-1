@@ -8,7 +8,7 @@ print("Hello, World!")
 #--------------------------------
 # Bloco 2: Erro faz parte
 
-# Atividade 2: Quebrar de propósito
+# Atividade 1: Quebrar de propósito
 
 # Para ver o erro, descomente a linha abaixo e execute o código
 #print("Hello, World!)
@@ -16,7 +16,7 @@ print("Hello, World!")
 #--------------------------------
 # Bloco 3: Variáveis na prática
 
-# Atividade 3: Guardando valores
+# Atividade 1: Guardando valores
 
 nome = "João"
 idade = 20
@@ -29,7 +29,7 @@ Números não devem ser entre aspas
 print(nome)
 print(idade)
 
-# Atividade 4: Usando variáveis juntas
+# Atividade 2: Usando variáveis juntas
 
 print(nome, idade)
 print("Nome:", nome)
